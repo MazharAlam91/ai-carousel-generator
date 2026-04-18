@@ -14,7 +14,7 @@ function App() {
     try {
       setLoading(true);
 
-      const res = await axios.post("http://127.0.0.1:5000/generate", {
+      const res = await axios.post("https://carousel-backend-3ofa.onrender.com/generate", {
         idea,
       });
 
