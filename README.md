@@ -6,7 +6,8 @@
 AI Carousel Generator is a full-stack web application that converts a simple idea into structured, editable, and downloadable social media carousel slides.
 
 ## 🎯 Features
-- 🧠 AI-powered slide generation  
+- 🧠 AI-powered slide generation
+- 🔄 Regenerate slides instantly
 - ✏️ Edit slides in real-time  
 - 📥 Download individual slides as images  
 - 📋 Copy slide content  
